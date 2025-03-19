@@ -1,6 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18760621&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
+
 1. What is Software Engineering and its Importance?
 
 Definition: Software engineering is a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software. It applies engineering principles to create reliable, efficient, and cost-effective software solutions.   
